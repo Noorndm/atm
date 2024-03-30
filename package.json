@@ -1,6 +1,6 @@
 {
   "name": "noorndm-atm",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "description": "this is a simple atm, created by using typescript and inquirer",
   "main": "index.js",
   "type": "module",
@@ -8,7 +8,6 @@
    "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
